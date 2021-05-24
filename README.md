@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Covid19 Tracker Application
+<a href="https://covid19-tracker-84ef4.web.app/"> Live Preview </a>
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
